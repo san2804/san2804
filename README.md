@@ -49,10 +49,5 @@ iOS Software Engineer | AI Enthusiast
 
 ---
 
-### 📄 Know about my experiences:
-[📄 View Resume](https://drive.google.com/file/d/1hQYqPfWSIlpdGQCZsf7EYiQvY5kVo2pD/view?usp=drive_link)
-
----
-
 > ✨ “Code is like humor. When you have to explain it, it’s bad.”  
 > — *Cory House*
