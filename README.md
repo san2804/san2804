@@ -10,13 +10,13 @@ iOS Software Engineer | AI Enthusiast
 - 💬 Ask me about **Swift** and **SwiftUI**
 - 📫 How to reach me: [kmsandildm@gmail.com](mailto:kmsandildm@gmail.com)  
   [LinkedIn](https://www.linkedin.com/in/sandil-d-muhandiram-b5429a205/)
-- ⚡ Fun fact: *Before becoming an iOS developer, I seriously considered becoming a professional juggler — because managing multiple app projects feels just as fun!*
+
 
 ---
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandil-d-muhandiram-b5429a205/)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+
 
 ---
 
