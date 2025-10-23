@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sandil D. Muhandiram  
-**iOS Software Engineer | AI Enthusiast **
+iOS Software Engineer | AI Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=san2804&color=blue)
 
