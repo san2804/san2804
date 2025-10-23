@@ -1,12 +1,12 @@
 # Hi 👋, I'm Sandil D. Muhandiram  
-**iOS Software Engineer | Mobile App Developer | Problem Solver**
+**iOS Software Engineer | AI Enthusiast **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=san2804&color=blue)
 
 ---
 
-- 🧩 I’m currently working on **Modular iOS Apps**
-- 🌱 I’m learning **SwiftUI**, **Jetpack Compose**, and **Flutter**
+- 🧩 I’m currently working on **iOS Apps**
+- 🌱 I’m learning **SwiftUI** and **AI** 
 - 🤝 I’m open to collaborating on **Open Source Mobile Frameworks**
 - 💬 Ask me about **Swift** and **SwiftUI**
 - 📫 How to reach me: [kmsandildm@gmail.com](mailto:kmsandildm@gmail.com)  
@@ -25,7 +25,6 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -35,8 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 
 ---
 
