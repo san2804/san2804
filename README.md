@@ -7,7 +7,6 @@
 
 - 🧩 I’m currently working on **iOS Apps**
 - 🌱 I’m learning **SwiftUI** and **AI** 
-- 🤝 I’m open to collaborating on **Open Source Mobile Frameworks**
 - 💬 Ask me about **Swift** and **SwiftUI**
 - 📫 How to reach me: [kmsandildm@gmail.com](mailto:kmsandildm@gmail.com)  
   [LinkedIn](https://www.linkedin.com/in/sandil-d-muhandiram-b5429a205/)
@@ -40,7 +39,7 @@
 
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san2804&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=san2804&show_icons=true&theme=radical)
+
 
 ---
 
